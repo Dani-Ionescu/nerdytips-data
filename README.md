@@ -1,6 +1,6 @@
 # 📊 NerdyTips Data Repository
 
-Welcome to the official **NerdyTips Data Repository**, where we share historical and analytical datasets that power our **AI-driven football predictions** platform — [NerdyTips.com](https://nerdytips.com).
+Welcome to the official **NerdyTips Data Repository**, where we share historical and analytical datasets that power our **AI-driven football predictions** platform — [NerdyTips](https://nerdytips.com).
 
 This repository provides open data for researchers, developers, and football fans who want to explore how artificial intelligence is transforming match prediction accuracy and performance tracking.
 
@@ -37,7 +37,7 @@ This dataset offers transparency into the **machine learning engine** that power
 
 ## 🧠 About NerdyTips
 
-[NerdyTips.com](https://nerdytips.com) is an AI-based football analytics platform that delivers **data-driven predictions** using:
+[NerdyTips](https://nerdytips.com) is an AI-based football analytics platform that delivers **data-driven predictions** using:
 - Historical match data  
 - Advanced statistics and xG (expected goals)  
 - Machine learning algorithms  
@@ -60,7 +60,7 @@ This repository is valuable for:
 ## 🧾 License
 
 All data is provided for **educational and analytical purposes**.  
-If you use or reference this repository, please credit [NerdyTips.com](https://nerdytips.com).
+If you use or reference this repository, please credit [NerdyTips](https://nerdytips.com).
 
 ---
 
